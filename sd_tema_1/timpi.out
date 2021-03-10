@@ -1,0 +1,64 @@
+1000 numere <= 1000
+bubblesort: 0 secunde : vector sortat
+countsort: 0 secunde : vector sortat
+mergesort: 0 secunde : vector sortat
+quicksort: 0 secunde : vector sortat
+radixsort8: 0 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+1000 numere <= 1000000
+bubblesort: 0 secunde : vector sortat
+countsort: 0 secunde : vector sortat
+mergesort: 0 secunde : vector sortat
+quicksort: 0 secunde : vector sortat
+radixsort8: 0 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+10000 numere <= 1000
+bubblesort: 0.062 secunde : vector sortat
+countsort: 0.18 secunde : vector sortat
+mergesort: 0.002 secunde : vector sortat
+quicksort: 0.01 secunde : vector sortat
+radixsort8: 0 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+10000 numere <= 1000000
+bubblesort: 0.061 secunde : vector sortat
+countsort: 0.152 secunde : vector sortat
+mergesort: 0 secunde : vector sortat
+quicksort: 0.01 secunde : vector sortat
+radixsort8: 0.008 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+100000 numere <= 1000
+bubblesort: 12.55 secunde : vector sortat
+countsort: 14.844 secunde : vector sortat
+mergesort: 0.013 secunde : vector sortat
+quicksort: 0.608 secunde : vector sortat
+radixsort8: 0.01 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+100000 numere <= 1000000
+bubblesort: 12.608 secunde : vector sortat
+countsort: 15.385 secunde : vector sortat
+mergesort: 0.02 secunde : vector sortat
+quicksort: 0.639 secunde : vector sortat
+radixsort8: 0.011 secunde : vector sortat
+radixsort256: 0 secunde : vector sortat
+nativsort: 0 secunde : vector sortat
+1000000 numere <= 1000
+bubblesort: timp depasit : vector nesortat
+countsort: timp depasit : vector nesortat
+mergesort: 0.215 secunde : vector sortat
+quicksort: 9.46 secunde : vector sortat
+radixsort8: 0.059 secunde : vector sortat
+radixsort256: 0.022 secunde : vector sortat
+nativsort: 0.011 secunde : vector sortat
+1000000 numere <= 1000000
+bubblesort: timp depasit : vector nesortat
+countsort: timp depasit : vector nesortat
+mergesort: 0.241 secunde : vector sortat
+quicksort: 7.556 secunde : vector sortat
+radixsort8: 0.061 secunde : vector sortat
+radixsort256: 0.023 secunde : vector sortat
+nativsort: 0.01 secunde : vector sortat

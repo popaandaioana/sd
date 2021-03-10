@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615413105 source:c:\users\user\desktop\sd tema 1\sd_tema_1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<algorithm>
+
+1615414381 source:c:\users\user\desktop\sd_tema_1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<algorithm>
+
